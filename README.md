@@ -9,13 +9,13 @@ I am a passionate Developer.
 - 👨‍💻 **Professional Experience:** Over 6 years of experience in WordPress development, specializing in web application development.
 - 📚 **Learning:** Continuously improving my skills in WordPress, Laravel, ReactJS, NodeJS, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
-- 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn][linkedin].
+- 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lwin-ko-ko-92-dev).
 - ⚡ **Interests:** In my free time, I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family.
 
 ### Connect with me:
 
-[<img align="left" alt="lwinkoko92dev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="lwinkoko92dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lwinkoko92dev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/nyan.kyal.gyi)
+[<img align="left" alt="lwinkoko92dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lwin-ko-ko-92-dev)
 
 <br />
 
@@ -38,5 +38,5 @@ I am a passionate Developer.
 
 <img align="left" alt="Lwin Ko Ko's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lwinkoko92dev&show_icons=true&hide_border=true" />
 
-[facebook]: [facebook]
-[linkedin]: [linkedin]
+[facebook]: (https://www.facebook.com/nyan.kyal.gyi)
+[linkedin]: (https://www.linkedin.com/in/lwin-ko-ko-92-dev)
